@@ -1,0 +1,15 @@
+.Flag-japan {
+	width: 10em;
+	height: 10em;
+	display:table-cell;
+	vertical-align: middle;
+	text-align:center;
+	background: white;
+}
+.Flag-japan-circle {
+	width: 5em;
+	height: 5em;
+	border-radius: 50%;
+	background: #BC002D;
+	display:inline-block;
+}
